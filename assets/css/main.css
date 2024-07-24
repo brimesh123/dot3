@@ -90,6 +90,11 @@ Description: Gerold - Personal Portfolio HTML5 Template
 	--tj-fz-sub-title: 36px;
 }
 
+.sidebar_widget.contact_form {
+    display: none;
+}
+
+
 * {
 	margin: 0;
 	padding: 0;
