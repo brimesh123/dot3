@@ -131,6 +131,10 @@ body {
 	overflow-x: hidden;
 }
 
+.portfolio_navigation {
+    display: none !important;
+}
+
 img {
 	max-width: 100%;
 }
